@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'grape'
 gem 'grape-entity'
 gem 'faker'
+gem 'grape_on_rails_routes'
+gem 'pry-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
